@@ -1,6 +1,6 @@
 {
   "name": "Pygtk-penjumlahan",
   "tagline": "Aplikasi jumlah-menjumlah dan hitung menghitung",
-  "body": "\r\n***\r\n",
+  "body": "## Aplikasi Penjumlahan? What is this?\r\nAplikasi ini merupakan aplikasi berbasis desktop yang ditulis dengan bahasa python. Tujuan utama aplikasi ini adalah untuk membantu seluruh umat manusia dalam kecepatan menghitung, terutama penjumlahan.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
